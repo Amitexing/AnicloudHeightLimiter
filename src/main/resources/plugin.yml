@@ -1,0 +1,4 @@
+name: ihate130y
+version: '${version}'
+main: org.karmash.ihate130y.Ihate130y
+api-version: '1.20'
